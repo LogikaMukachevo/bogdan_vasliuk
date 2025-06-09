@@ -1,0 +1,59 @@
+body h1 {
+    text-align: center;
+    color: red
+}
+body h2{
+border:2px solid red;
+}
+.Rodri{
+    border:2px solid black;
+    text-align: center;
+}
+.carvahal{
+    border:2px solid black;
+    text-align: center;
+}
+.bellingham{
+    border:2px solid black;
+    text-align: center;
+}
+.jr{
+    border:2px solid black;
+    text-align: center;
+}
+.yamal{
+    border:2px solid black;
+    text-align: center;
+}
+.virc{
+    border:2px solid black;
+    text-align: center;
+}
+.lautaro{
+    border:2px solid black;
+    text-align: center;
+}
+.foden{
+    border:2px solid black;
+    text-align: center;
+}
+.mbappe{
+   border:2px solid black;
+   text-align: center;
+}
+.lookman{
+   border:2px solid black;
+   text-align: center;
+}
+.nomer{
+    text-align: center;
+}
+.misto{
+    text-align: center;
+}
+footer a{
+    text-decoration:none;
+}
+footer{
+    text-align: center;
+}
